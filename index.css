@@ -1,0 +1,69 @@
+#black {
+    width: 120px;
+    height: 120px;
+    background: black;
+}
+
+.black {
+    cursor:default;
+}
+
+#white {
+    width: 120px;
+    height: 120px;
+    background: white;
+}
+
+.white {
+    cursor:text;
+}
+
+#yellow {
+    width: 120px;
+    height: 120px;
+    background: yellow;
+}
+
+.yellow {
+    cursor: pointer;
+}
+
+#pink {
+    width: 120px;
+    height: 120px;
+    background: pink;
+}
+
+.pink {
+    cursor:help;
+}
+
+#red {
+    width: 120px;
+    height: 120px;
+    background: red;
+}
+
+.red {
+    cursor:wait;
+}
+
+#green {
+    width: 120px;
+    height: 120px;
+    background: green;
+}
+
+.green {
+    cursor:w-resize;
+}
+
+#grey {
+    width: 120px;
+    height: 120px;
+    background: grey;
+}
+
+.grey {
+    cursor:zoom-out;
+}
